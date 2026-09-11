@@ -1,2 +1,0 @@
-# BuoyantAtlas
-Okak atlas
